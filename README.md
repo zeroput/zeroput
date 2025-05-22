@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @zeroput
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java and dotnet
-- 💞️ I’m looking to collaborate on xxx
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
